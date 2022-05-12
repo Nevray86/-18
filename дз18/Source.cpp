@@ -78,5 +78,7 @@ int main() {
 	
 	cout << endl;
 	maxArray(array, 10);
+	cout << "commit";
+	// COMMIT
 	return 0;
 }
